@@ -1,0 +1,94 @@
+<resources>
+    <string name="app_name">Tashkent Tour App</string>
+    <string name="category_banks">Banks</string>
+    <string name="category_malls">Malls</string>
+    <string name="category_parks">Parks</string>
+    <string name="category_hotels">Hotels</string>
+    <string name="bank_one" type="id">Kapital Bank</string>
+    <string name="bank_two" type="id">TBC Bank</string>
+    <string name="bank_three" type="id">Anorbank</string>
+    <string name="bank_four" type="id">Infin Bank</string>
+    <string name="bank_five" type="id">Ravnaq Bank</string>
+    <string name="bank_six" type="id">SQB</string>
+    <string name="bank_seven" type="id">Aloqa Bank</string>
+    <string name="bank_eight" type="id">Ipak Yuli Bank</string>
+    <string name="bank_nine" type="id">KDP Bank</string>
+    <string name="bank_ten" type="id">Xalq Bank</string>
+
+    <string name="location_bank_one" type="id">Str Mustaqillik</string>
+    <string name="location_bank_two" type="id">Str Mustaqillik</string>
+    <string name="location_bank_three" type="id">Str Mustaqillik</string>
+    <string name="location_bank_four" type="id">Str Mustaqillik</string>
+    <string name="location_bank_five" type="id">Str Mustaqillik</string>
+    <string name="location_bank_six" type="id">Str Mustaqillik</string>
+    <string name="location_bank_seven" type="id">Str Mustaqillik</string>
+    <string name="location_bank_eight" type="id">Str Mustaqillik</string>
+    <string name="location_bank_nine" type="id">Str Mustaqillik</string>
+    <string name="location_bank_ten" type="id">Str Mustaqillik</string>
+
+    <string name="park_one" type="id">Kapital Bank</string>
+    <string name="park_two" type="id">TBC Bank</string>
+    <string name="park_three" type="id">Anorbank</string>
+    <string name="park_four" type="id">Infin Bank</string>
+    <string name="park_five" type="id">Ravnaq Bank</string>
+    <string name="park_six" type="id">SQB</string>
+    <string name="park_seven" type="id">Aloqa Bank</string>
+    <string name="park_eight" type="id">Ipak Yuli Bank</string>
+    <string name="park_nine" type="id">KDP Bank</string>
+    <string name="park_ten" type="id">Xalq Bank</string>
+
+    <string name="location_park_one" type="id">Str Mustaqillik</string>
+    <string name="location_park_two" type="id">Str Mustaqillik</string>
+    <string name="location_park_three" type="id">Str Mustaqillik</string>
+    <string name="location_park_four" type="id">Str Mustaqillik</string>
+    <string name="location_park_five" type="id">Str Mustaqillik</string>
+    <string name="location_park_six" type="id">Str Mustaqillik</string>
+    <string name="location_park_seven" type="id">Str Mustaqillik</string>
+    <string name="location_park_eight" type="id">Str Mustaqillik</string>
+    <string name="location_park_nine" type="id">Str Mustaqillik</string>
+    <string name="location_park_ten" type="id">Str Mustaqillik</string>
+
+    <string name="mall_one" type="id">Kapital Bank</string>
+    <string name="mall_two" type="id">TBC Bank</string>
+    <string name="mall_three" type="id">Anorbank</string>
+    <string name="mall_four" type="id">Infin Bank</string>
+    <string name="mall_five" type="id">Ravnaq Bank</string>
+    <string name="mall_six" type="id">SQB</string>
+    <string name="mall_seven" type="id">Aloqa Bank</string>
+    <string name="mall_eight" type="id">Ipak Yuli Bank</string>
+    <string name="mall_nine" type="id">KDP Bank</string>
+    <string name="mall_ten" type="id">Xalq Bank</string>
+
+    <string name="location_mall_one" type="id">Str Mustaqillik</string>
+    <string name="location_mall_two" type="id">Str Mustaqillik</string>
+    <string name="location_mall_three" type="id">Str Mustaqillik</string>
+    <string name="location_mall_four" type="id">Str Mustaqillik</string>
+    <string name="location_mall_five" type="id">Str Mustaqillik</string>
+    <string name="location_mall_six" type="id">Str Mustaqillik</string>
+    <string name="location_mall_seven" type="id">Str Mustaqillik</string>
+    <string name="location_mall_eight" type="id">Str Mustaqillik</string>
+    <string name="location_mall_nine" type="id">Str Mustaqillik</string>
+    <string name="location_mall_ten" type="id">Str Mustaqillik</string>
+
+    <string name="hotel_one" type="id">Kapital Bank</string>
+    <string name="hotel_two" type="id">TBC Bank</string>
+    <string name="hotel_three" type="id">Anorbank</string>
+    <string name="hotel_four" type="id">Infin Bank</string>
+    <string name="hotel_five" type="id">Ravnaq Bank</string>
+    <string name="hotel_six" type="id">SQB</string>
+    <string name="hotel_seven" type="id">Aloqa Bank</string>
+    <string name="hotel_eight" type="id">Ipak Yuli Bank</string>
+    <string name="hotel_nine" type="id">KDP Bank</string>
+    <string name="hotel_ten" type="id">Xalq Bank</string>
+
+    <string name="location_hotel_one" type="id">Str Mustaqillik</string>
+    <string name="location_hotel_two" type="id">Str Mustaqillik</string>
+    <string name="location_hotel_three" type="id">Str Mustaqillik</string>
+    <string name="location_hotel_four" type="id">Str Mustaqillik</string>
+    <string name="location_hotel_five" type="id">Str Mustaqillik</string>
+    <string name="location_hotel_six" type="id">Str Mustaqillik</string>
+    <string name="location_hotel_seven" type="id">Str Mustaqillik</string>
+    <string name="location_hotel_eight" type="id">Str Mustaqillik</string>
+    <string name="location_hotel_nine" type="id">Str Mustaqillik</string>
+    <string name="location_hotel_ten" type="id">Str Mustaqillik</string>
+</resources>
